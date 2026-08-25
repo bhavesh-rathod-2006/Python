@@ -9,3 +9,6 @@ print(type(value))
 
 # now the current output is
 #<class 'str'>
+
+
+#the type is converted from 'int' to 'str'
