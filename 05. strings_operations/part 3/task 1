@@ -1,0 +1,6 @@
+name="bhavesh"
+city='surat'
+programming_language="""python"""
+massage="i like to solve real world challanges"
+
+print(name,city,programming_language,massage)
