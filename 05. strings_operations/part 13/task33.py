@@ -1,0 +1,1 @@
+words = ["Python", "is", "easy"]
