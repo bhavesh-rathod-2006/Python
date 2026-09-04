@@ -1,0 +1,1 @@
+#print("A", "B", "C") it displays A B C 
