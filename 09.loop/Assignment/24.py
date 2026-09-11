@@ -1,0 +1,8 @@
+string=input("Enter a string ").strip()
+
+sum=0
+
+for i in string:
+    if i=="a":
+        sum=sum+1
+print(sum)        
