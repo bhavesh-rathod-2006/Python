@@ -50,7 +50,7 @@ ____
 
 #### Python code
 
-```bash
+```python
 number_1=int(input("Enter first number"))  
 number_2=int(input("Enter second number"))
 
@@ -113,7 +113,7 @@ otherwise prints odd
 _____
    
 #### Python code
-```bash
+```python
 number=int(input("Enter a number"))
 if number%2==0:
     print("Even")
@@ -175,7 +175,7 @@ then is print the largest number and that is 8
 
 ____
 
-```bash
+```python
 number_1=int(input("Enter the 1st number"))
 number_2=int(input("Enter the 2nd number"))
 number_3=int(input("Enter the 3rd number"))
@@ -243,7 +243,7 @@ then outputs comes out that you are  able to vote
 ____
 
 #### Python code
-```bash
+```python
 age=int(input("Enter your age"))
 if age>=18:
   print("You are able to vote")
@@ -301,7 +301,7 @@ then print the final price
 _____
 
 #### Python code
-```bash
+```python
 price=int(input("Enter the price of product "))
 if price>=2000:
    discount=price*0.2
@@ -368,7 +368,7 @@ the program prints fail as a output.
 _____
 
 #### Python code
-```bash
+```python
 mark_1=int(input("Enter your html exam marks"))
 mark_2=int(input("Enter your css exam marks"))
 mark_3=int(input("Enter your python exam marks"))
